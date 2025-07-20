@@ -12,10 +12,3 @@ elif value < 0:
 # หากทั้งสองเงื่อนไขไม่เป็นจริง: ให้ทำงานตรงนี้แทน
 else:
 	print("This number is both positive and negative.")
-​?> ./iszero.py
-42
-This number is different from zero.
-?> ./iszero.py
-0
-This number is equal to zero.
-?>
